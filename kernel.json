@@ -1,0 +1,11 @@
+{
+ "argv": [
+  ".virtualenvs/science/bin/python3",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "science",
+ "language": "python"
+}
