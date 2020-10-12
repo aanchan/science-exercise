@@ -10,5 +10,5 @@ To run this exercise:
 2. There is a file called `kernel.json` which allows the loading of a new virtualenv in a Jupyter Notebook. This has been harcoded to point to .virtualenvs/science
 3. Start Jupyter Notebook, by typing `jupyter notebook`
 4. Make sure the Jupyter Notebook is able to work within this environment. Click [here](./images/Selection_984.png) for an example image.
-5. Open the notebook that says Science.ipynb
+5. Open the notebook that says [Science.ipynb](Science.ipynb)
 6. The write-up and further details are in context and runnable from the Jupyter Notebook - [Science.ipynb](Science.ipynb).
